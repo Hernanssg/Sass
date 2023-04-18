@@ -1,0 +1,26 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Hind:wght@600;700&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Hind", sans-serif; }
+
+.header h1 {
+  color: #60D394;
+  font-family: "Montserrat", sans-serif; }
+
+.header h1 {
+  background-color: #FFD97D; }
+
+.main-index .tercera {
+  display: flex; }
+  .main-index .tercera .div1 {
+    background-color: #60D394;
+    height: 150px; }
+  .main-index .tercera .div2 {
+    background-color: #FF9B85;
+    height: 100; }
+  .main-index .tercera .div3 {
+    background-color: #FFD97D;
+    height: 520px; }
